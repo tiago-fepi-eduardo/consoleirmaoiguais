@@ -1,0 +1,11 @@
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\TesteFilaCell.csprojAssemblyReference.cache
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\TesteFilaCell.csproj.CoreCompileInputs.cache
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\TesteFilaCell.AssemblyInfoInputs.cache
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\TesteFilaCell.AssemblyInfo.cs
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\TesteFilaCell.deps.json
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\TesteFilaCell.runtimeconfig.json
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\TesteFilaCell.runtimeconfig.dev.json
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\TesteFilaCell.dll
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\TesteFilaCell.pdb
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\TesteFilaCell.dll
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\TesteFilaCell.pdb

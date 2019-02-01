@@ -1,0 +1,10 @@
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\ConsoleArvoreBinaria.deps.json
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\ConsoleArvoreBinaria.runtimeconfig.json
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\ConsoleArvoreBinaria.runtimeconfig.dev.json
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\ConsoleArvoreBinaria.dll
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\bin\Debug\netcoreapp2.0\ConsoleArvoreBinaria.pdb
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\ConsoleArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\ConsoleArvoreBinaria.AssemblyInfoInputs.cache
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\ConsoleArvoreBinaria.AssemblyInfo.cs
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\ConsoleArvoreBinaria.dll
+C:\Users\TiagoEduardo\source\repos\TesteFilaCell\TesteFilaCell\obj\Debug\netcoreapp2.0\ConsoleArvoreBinaria.pdb
